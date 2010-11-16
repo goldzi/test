@@ -1,0 +1,12 @@
+production:
+  adapter: mysql
+  database: rc7_easyproject_cz
+  username: easyproject.cz
+  password: 3huv9Ruq
+  host: localhost
+development:
+  adapter: mysql
+  database: rc7_easyproject_cz
+  username: easyproject.cz
+  password: 3huv9Ruq
+  host: localhostYES
